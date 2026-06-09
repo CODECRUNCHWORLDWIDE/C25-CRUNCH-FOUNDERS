@@ -4,15 +4,16 @@ All free and publicly accessible. **Education, not legal advice.**
 
 ## Required
 
-- **Y Combinator Startup School — co-founders & equity talks**: <https://www.startupschool.org/library>
-- **Paul Graham — essays on co-founders and startups** (browse the index): <https://www.paulgraham.com/articles.html>
+- **Search for free public talks on co-founders and equity** — find freely available material on choosing co-founders and splitting equity, and note the trade-offs.
+- **Read founder post-mortems published openly online** — look for stories of co-founder and equity splits that went wrong, and what they taught.
 
-## On equity, vesting, and the founder's dilemmas
+## On equity, vesting, and the people-and-equity decisions
 
 - **Wikipedia — Vesting**: <https://en.wikipedia.org/wiki/Vesting>
 - **Wikipedia — Capitalization table**: <https://en.wikipedia.org/wiki/Capitalization_table>
 - **Wikipedia — Founder (of a company) / entrepreneurship** background on team and ownership decisions: <https://en.wikipedia.org/wiki/Entrepreneurship>
-- **Y Combinator — free Series A / SAFE and founder docs library** (read the plain-language templates as references): <https://www.ycombinator.com/library>
+- **Wikipedia — Simple agreement for future equity (SAFE)** — neutral background on a common early founder/investor instrument: <https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity>
+- **Search for free, plain-language founder document templates published openly online** — read them as references only.
 
 ## On decision rights and governance
 

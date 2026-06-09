@@ -48,7 +48,7 @@ A founder lists "an app that gamifies grocery shopping." Reversing it to a probl
 | File | What's inside |
 |------|---------------|
 | [README.md](./README.md) | This overview |
-| [resources.md](./resources.md) | YC "how to get startup ideas," Paul Graham, free validation tools |
+| [resources.md](./resources.md) | Wikipedia overviews, free talks on getting startup ideas, free validation tools |
 | [lecture-notes/01-problem-first-idea-generation.md](./lecture-notes/01-problem-first-idea-generation.md) | Where good problems come from; problem-first vs. solution-first |
 | [lecture-notes/02-triage-and-desk-validation.md](./lecture-notes/02-triage-and-desk-validation.md) | The triage filter, desk validation, kill criteria |
 | [exercises/README.md](./exercises/README.md) | Index of exercises |

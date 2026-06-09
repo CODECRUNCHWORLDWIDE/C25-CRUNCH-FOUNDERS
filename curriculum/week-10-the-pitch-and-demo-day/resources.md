@@ -4,8 +4,8 @@ All free and publicly accessible.
 
 ## Required
 
-- **Y Combinator Startup School — "How to Pitch Your Startup" / demo-day talks**: <https://www.startupschool.org/library>
-- **Paul Graham — essays on pitching and investors** (browse the index): <https://www.paulgraham.com/articles.html>
+- **Search for free public talks on how to pitch your startup / demo-day pitches** — find freely available material and note what a strong three-minute pitch includes.
+- **Read freely available founder essays on pitching and investors** — note one idea you can use in your own pitch.
 
 ## On pitch structure and decks
 

@@ -4,9 +4,9 @@ All free and publicly accessible.
 
 ## Required
 
-- **Y Combinator Startup School — "How to Get Startup Ideas"** (free talk/essay material): <https://www.startupschool.org/library>
-- **Paul Graham — "How to Get Startup Ideas"**: <https://www.paulgraham.com/startupideas.html>
-- **Paul Graham — "Do Things That Don't Scale"** (why early validation is manual): <https://www.paulgraham.com/ds.html>
+- **Wikipedia — Lean startup** — neutral overview of starting from a problem and validating before building: <https://en.wikipedia.org/wiki/Lean_startup>
+- **Search for free public talks and articles on "how to get startup ideas"** — find a freely available source and note where good ideas actually come from.
+- **Search for free guidance on doing things that don't scale** — read why early validation is done manually, one conversation at a time.
 
 ## Free desk-validation tools
 
@@ -16,7 +16,7 @@ All free and publicly accessible.
 
 ## On problems vs. solutions
 
-- **Steve Blank — Customer Development** (free blog posts on starting from the problem): <https://steveblank.com/category/customer-development/>
+- **Wikipedia — Customer development** — background on starting from the problem and learning from the people who have it: <https://en.wikipedia.org/wiki/Customer_development>
 - **Wikipedia — Problem statement**: <https://en.wikipedia.org/wiki/Problem_statement>
 
 ## Glossary

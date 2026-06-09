@@ -4,9 +4,9 @@ All free and publicly accessible. **Education, not investment or legal advice.**
 
 ## Required
 
-- **Y Combinator — the SAFE and free fundraising documents/primers** (read the plain-language explainer): <https://www.ycombinator.com/documents>
-- **Y Combinator Startup School — fundraising talks**: <https://www.startupschool.org/library>
-- **Paul Graham — "How to Raise Money"**: <https://www.paulgraham.com/fr.html>
+- **Wikipedia — Venture capital** — neutral overview of how early-stage fundraising works: <https://en.wikipedia.org/wiki/Venture_capital>
+- **Search for free public talks on fundraising** — find freely available material and note when and why founders choose to raise.
+- **Search for free, plain-language fundraising primers and document explainers published openly online** — read about common instruments as references only.
 
 ## On cap tables, dilution, and instruments
 

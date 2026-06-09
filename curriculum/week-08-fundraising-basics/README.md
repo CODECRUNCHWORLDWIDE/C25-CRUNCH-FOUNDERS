@@ -51,7 +51,7 @@ Two founders own 100% (say 8,000,000 shares total, 4M each). A pre-seed investor
 | File | What's inside |
 |------|---------------|
 | [README.md](./README.md) | This overview |
-| [resources.md](./resources.md) | YC SAFE docs, Paul Graham on fundraising, Wikipedia |
+| [resources.md](./resources.md) | Free fundraising primers and talks, Wikipedia |
 | [lecture-notes/01-when-to-raise-and-stages.md](./lecture-notes/01-when-to-raise-and-stages.md) | When not to raise; funding stages |
 | [lecture-notes/02-cap-tables-safes-and-dilution.md](./lecture-notes/02-cap-tables-safes-and-dilution.md) | Cap tables, SAFEs, dilution math |
 | [exercises/README.md](./exercises/README.md) | Index of exercises |

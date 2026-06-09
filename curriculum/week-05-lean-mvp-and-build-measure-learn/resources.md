@@ -4,14 +4,14 @@ All free and publicly accessible.
 
 ## Required
 
-- **Y Combinator Startup School — building an MVP and talking to users**: <https://www.startupschool.org/library>
-- **Paul Graham — "Do Things That Don't Scale"** (the manual-first MVP mindset): <https://www.paulgraham.com/ds.html>
+- **Search for free public talks on building an MVP and talking to users** — find freely available material and note how teams keep the first build small.
+- **Search for free guidance on doing things that don't scale** — read about the manual-first MVP mindset.
 - **Wikipedia — Minimum viable product**: <https://en.wikipedia.org/wiki/Minimum_viable_product>
 
 ## On the lean methodology (general terms)
 
 - **Wikipedia — Lean startup** (build-measure-learn, validated learning, pivot): <https://en.wikipedia.org/wiki/Lean_startup>
-- **Steve Blank — free posts on customer development and the pivot**: <https://steveblank.com/>
+- **Wikipedia — Customer development** — background on customer development and the pivot: <https://en.wikipedia.org/wiki/Customer_development>
 
 ## Free / low-cost tools to build a quick MVP
 
@@ -19,7 +19,6 @@ All free and publicly accessible.
 - **Google Forms** (concierge intake, surveys): <https://docs.google.com/forms>
 - **Figma** (clickable prototypes, free): <https://www.figma.com/>
 - **GitHub Pages** (host a static fake-door page free): <https://pages.github.com/>
-- **freeCodeCamp** (if you need to hand-build a small page): <https://www.freecodecamp.org/>
 
 ## Glossary
 

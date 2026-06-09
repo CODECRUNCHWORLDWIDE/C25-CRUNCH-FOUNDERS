@@ -4,9 +4,9 @@ All free and publicly accessible.
 
 ## Required
 
-- **Steve Blank — "Get out of the building" / Customer Development** (free blog): <https://steveblank.com/category/customer-development/>
-- **Y Combinator Startup School — talks on talking to users**: <https://www.startupschool.org/library>
-- **Paul Graham — "Do Things That Don't Scale"** (manual early conversations): <https://www.paulgraham.com/ds.html>
+- **Search for free public talks and articles on customer-interview technique** — find a freely available source on "talking to users" / "getting out of the building" and note its rules for a good interview.
+- **Search for free guidance on doing things that don't scale** — read why early customer conversations are done manually, one at a time.
+- **Wikipedia — Customer discovery / customer development** — the origin and shape of the method (see the interview-technique section below).
 
 ## On interview technique
 

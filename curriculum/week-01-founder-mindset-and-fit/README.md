@@ -69,7 +69,7 @@ Same idea, completely different odds — because founder-market fit and standing
 | File | What's inside |
 |------|---------------|
 | [README.md](./README.md) | This overview (you are here) |
-| [resources.md](./resources.md) | YC Startup School, Paul Graham essays, Steve Blank — free links |
+| [resources.md](./resources.md) | Wikipedia overviews and free public talks/essays — free links |
 | [lecture-notes/01-the-founders-real-job.md](./lecture-notes/01-the-founders-real-job.md) | The job, the myth, and why discovery beats inspiration |
 | [lecture-notes/02-control-vs-wealth-and-founder-market-fit.md](./lecture-notes/02-control-vs-wealth-and-founder-market-fit.md) | The control-vs-wealth trade, founder-market fit, standing |
 | [exercises/README.md](./exercises/README.md) | Index of short exercises |
@@ -81,9 +81,9 @@ Same idea, completely different odds — because founder-market fit and standing
 
 ## Stretch goals
 
-- Watch the opening lectures of **Y Combinator Startup School** (free) and write down one belief of yours they challenged: <https://www.startupschool.org/>
-- Read Paul Graham's essay **"How to Start a Startup"** and note the line that lands hardest: <https://www.paulgraham.com/start.html>
-- Skim the Wikipedia summary of **founder-market fit** and the broader idea of **founder's dilemmas** (decisions around team, ownership, and control) in your own words: <https://en.wikipedia.org/wiki/Entrepreneurship>
+- Watch a free public startup talk and write down one belief of yours it challenged.
+- Read a freely available founder essay on how to start a startup and note the line that lands hardest.
+- Skim the Wikipedia overview of **entrepreneurship** and summarize founder-market fit and the broader co-founder, ownership, and control decisions in your own words: <https://en.wikipedia.org/wiki/Entrepreneurship>
 
 ## Up next
 

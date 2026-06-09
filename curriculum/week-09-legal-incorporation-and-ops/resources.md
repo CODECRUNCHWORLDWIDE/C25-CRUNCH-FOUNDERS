@@ -4,8 +4,8 @@ All free and publicly accessible. **Education, not legal or tax advice. Entity a
 
 ## Required
 
-- **Y Combinator — free startup documents and incorporation/legal primers**: <https://www.ycombinator.com/library>
-- **Y Combinator Startup School — legal & incorporation talks**: <https://www.startupschool.org/library>
+- **Search for free, plain-language startup incorporation and legal primers published openly online** — read them as references only, then confirm with a local professional.
+- **Search for free public talks on legal setup and incorporation** — find freely available material and note the first legal steps founders take.
 
 ## On incorporation, entities, and IP
 

@@ -35,7 +35,7 @@ An opinionated founder course designed to take a learner from "I have an idea" t
 
 ### Phase 2 — Team & Build
 
-**Week 4 — Co-founders, roles, equity & vesting.** The founder's dilemmas: solo vs. co-founders, who decides what, and how to split equity *before* resentment makes it impossible. Why an equal split is a decision, not a default. Vesting with a cliff as protection for everyone, including the people who stay. The control-vs-wealth trade reappears here, concretely.
+**Week 4 — Co-founders, roles, equity & vesting.** The co-founder, ownership, and control decisions: solo vs. co-founders, who decides what, and how to split equity *before* resentment makes it impossible. Why an equal split is a decision, not a default. Vesting with a cliff as protection for everyone, including the people who stay. The control-vs-wealth trade reappears here, concretely.
 
 - *Mini-deliverable:* A co-founder agreement draft — roles, decision rights, an equity split with stated reasoning, and a vesting schedule with a cliff.
 

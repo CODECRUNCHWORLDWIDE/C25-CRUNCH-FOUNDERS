@@ -8,7 +8,7 @@ Each problem includes a **problem statement**, **acceptance criteria**, a **hint
 
 ## Problem 1 — Founder teardown
 
-**Problem statement.** Pick one founder you can read freely about online (a public YC Startup School talk, a Paul Graham essay, a Wikipedia biography). Write a short teardown at `notes/founder-teardown.md`:
+**Problem statement.** Pick one founder you can read freely about online (a free public startup talk, a freely available founder essay, or a Wikipedia biography). Write a short teardown at `notes/founder-teardown.md`:
 
 - Who they are and what they built (two sentences).
 - Their apparent **founder-market fit** — what unfair advantages did they have?
@@ -21,7 +21,7 @@ Each problem includes a **problem statement**, **acceptance criteria**, a **hint
 - The source is free and the link works.
 - Committed.
 
-**Hint.** Founder-market fit is easiest to spot in founders who built for an industry they came from. Start at <https://www.startupschool.org/> or <https://www.paulgraham.com/articles.html>.
+**Hint.** Founder-market fit is easiest to spot in founders who built for an industry they came from. Search free public talks, freely available founder essays, and Wikipedia for a founder whose background matches what they built.
 
 **Estimated time.** 30 minutes.
 

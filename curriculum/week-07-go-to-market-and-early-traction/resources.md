@@ -4,8 +4,8 @@ All free and publicly accessible.
 
 ## Required
 
-- **Y Combinator Startup School — getting users & growth talks**: <https://www.startupschool.org/library>
-- **Paul Graham — "Do Things That Don't Scale"** (manual early acquisition): <https://www.paulgraham.com/ds.html>
+- **Search for free public talks on getting users and growth** — find freely available material and note the earliest channels founders use.
+- **Search for free guidance on doing things that don't scale** — read about manual early customer acquisition.
 - **Wikipedia — Conversion funnel**: <https://en.wikipedia.org/wiki/Conversion_funnel>
 
 ## On metrics and traction

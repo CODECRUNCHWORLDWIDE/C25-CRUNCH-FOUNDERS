@@ -4,20 +4,20 @@ Every resource on this page is **free** and **publicly accessible**. No paywalle
 
 ## Required (work it into your week)
 
-- **Y Combinator Startup School** — free, self-paced startup curriculum; start with the early "how to get startup ideas" and founder talks: <https://www.startupschool.org/>
-- **Paul Graham — "How to Start a Startup"** — the founder's job in plain prose: <https://www.paulgraham.com/start.html>
-- **Paul Graham — essays index** — pick one more that catches your eye: <https://www.paulgraham.com/articles.html>
+- **Wikipedia — Lean startup** — a neutral overview of the founder's approach to building something new under uncertainty: <https://en.wikipedia.org/wiki/Lean_startup>
+- **Search for free public startup talks and founder essays** — find a freely available talk or article on "how to start a startup" or "how to get startup ideas," and note the line that lands hardest.
+- **Read founder post-mortems published openly online** — pick one and note what they would do differently.
 
 ## On founder-market fit and the founder's job
 
-- **Steve Blank — free resources and blog** — the originator of customer development writes openly about why founders fail and why getting out of the building matters: <https://steveblank.com/>
+- **Wikipedia — Customer development** — background on why founders should "get out of the building" and learn from the people who have the problem: <https://en.wikipedia.org/wiki/Customer_development>
 - **Wikipedia — Entrepreneurship** — a neutral overview of founder roles and early-stage decision-making: <https://en.wikipedia.org/wiki/Entrepreneurship>
 - **Wikipedia — Startup company** — context on the early-stage lifecycle and the people decisions within it: <https://en.wikipedia.org/wiki/Startup_company>
 
-## On control vs. wealth and the founder's dilemmas
+## On control vs. wealth and the people-and-equity decisions
 
 - **Wikipedia — Corporate governance** — background on boards, control, and what founders trade for capital: <https://en.wikipedia.org/wiki/Corporate_governance>
-- **Y Combinator Startup School library** — search the free talks for "co-founders," "equity," and "fundraising"; they cover the control-vs-wealth trade concretely: <https://www.startupschool.org/library>
+- **Search free public talks for "co-founders," "equity," and "fundraising"** — these cover the control-vs-wealth trade concretely; take notes on the trade-offs each talk describes.
 
 ## Glossary cheat sheet
 

@@ -49,7 +49,7 @@ The clinic founder sells a $99/month tool to a small, reachable set of clinics â
 | File | What's inside |
 |------|---------------|
 | [README.md](./README.md) | This overview |
-| [resources.md](./resources.md) | YC, Paul Graham, Wikipedia on funnels & metrics |
+| [resources.md](./resources.md) | Free talks and Wikipedia on funnels & metrics |
 | [lecture-notes/01-go-to-market-motions.md](./lecture-notes/01-go-to-market-motions.md) | Motions and matching one to your model |
 | [lecture-notes/02-traction-and-metrics.md](./lecture-notes/02-traction-and-metrics.md) | One metric, vanity vs. real, funnels |
 | [exercises/README.md](./exercises/README.md) | Index of exercises |

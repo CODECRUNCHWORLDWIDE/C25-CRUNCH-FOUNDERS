@@ -17,7 +17,7 @@ By the end of this week, you will be able to:
 
 ## Topics covered
 
-- Solo vs. co-founders — the first founder's dilemma
+- Solo vs. co-founders — the first big people-and-equity decision
 - Roles and decision rights: who has the final call on what
 - Equity splits: equal vs. unequal, and the inputs that justify each (idea, time, capital, risk, skill, opportunity cost)
 - The dangers of the handshake split and the "we'll sort it later" deferral

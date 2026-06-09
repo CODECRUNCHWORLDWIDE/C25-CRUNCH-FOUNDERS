@@ -4,7 +4,7 @@ All free and publicly accessible.
 
 ## Required
 
-- **Y Combinator Startup School — business model & metrics talks**: <https://www.startupschool.org/library>
+- **Search for free public talks on business models and metrics** — find freely available material and note how founders reason about how the business makes money.
 - **Wikipedia — Business Model Canvas**: <https://en.wikipedia.org/wiki/Business_Model_Canvas>
 - **Wikipedia — Unit cost / contribution margin**: <https://en.wikipedia.org/wiki/Contribution_margin>
 

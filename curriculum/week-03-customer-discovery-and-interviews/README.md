@@ -50,7 +50,7 @@ A founder testing the clinic-no-show idea asks her first interviewee, "Would you
 | File | What's inside |
 |------|---------------|
 | [README.md](./README.md) | This overview |
-| [resources.md](./resources.md) | Steve Blank, YC, free interview-question references |
+| [resources.md](./resources.md) | Wikipedia overviews, free talks, free interview-question references |
 | [lecture-notes/01-discovery-principles.md](./lecture-notes/01-discovery-principles.md) | Get out of the building; good vs. bad questions |
 | [lecture-notes/02-recruiting-and-synthesis.md](./lecture-notes/02-recruiting-and-synthesis.md) | Recruiting, write-ups, finding the pattern |
 | [exercises/README.md](./exercises/README.md) | Index of exercises |
