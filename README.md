@@ -3,7 +3,7 @@
 > A free, open-source **founder/startup track**: 10 weeks from "I have an idea, I think?" to "I validated a real problem with real people, built something they can use, and pitched it in three minutes without flinching." Built around customer discovery, the lean build-measure-learn loop, honest co-founder agreements, and the early-stage decisions that quietly decide whether a company survives.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
-[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-2DD4BF.svg)](https://github.com/CODE-CRUNCH-WORLDWIDE)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-2DD4BF.svg)](https://github.com/CODECRUNCHWORLDWIDE)
 
 C25 is a **course**, not an accelerator and not a get-rich pitch. It teaches the boring, decisive skills that early-stage founders almost always learn too late: talking to customers before building, splitting equity before resentment sets in, knowing your unit economics before you scale a money-loser, and reading a term sheet before you sign one. The course lives in `curriculum/`.
 
