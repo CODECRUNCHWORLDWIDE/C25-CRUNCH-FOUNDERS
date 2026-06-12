@@ -1,0 +1,385 @@
+{
+  "repo": "C25-CRUNCH-FOUNDERS",
+  "files": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "title": "Contributor Covenant Code of Conduct"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to Crunch Founders"
+    },
+    {
+      "path": "README.md",
+      "title": "C25 \u00b7 Crunch Founders \u2014 Zero to Launch"
+    },
+    {
+      "path": "curriculum/SYLLABUS.md",
+      "title": "C25 \u00b7 Crunch Founders \u2014 Zero to Launch \u00b7 Syllabus"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/README.md",
+      "title": "Week 1 \u2014 Founder Mindset & Founder-Market Fit"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/exercises/README.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/exercises/exercise-01-founder-brief.md",
+      "title": "Exercise 1 \u2014 Founder Brief"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/exercises/exercise-02-control-vs-wealth.md",
+      "title": "Exercise 2 \u2014 Control vs. Wealth, Made Concrete"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/homework.md",
+      "title": "Week 1 Homework"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/lecture-notes/01-the-founders-real-job.md",
+      "title": "Lecture 1 \u2014 The Founder's Real Job"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/lecture-notes/02-control-vs-wealth-and-founder-market-fit.md",
+      "title": "Lecture 2 \u2014 Control vs. Wealth and Founder-Market Fit"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/mini-project/README.md",
+      "title": "Mini-Project \u2014 Your Founder Operating Document"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-founder-mindset-and-fit/resources.md",
+      "title": "Week 1 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/README.md",
+      "title": "Week 2 \u2014 Idea Generation & Problem Validation"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/exercises/README.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/exercises/exercise-01-problem-inventory.md",
+      "title": "Exercise 1 \u2014 Problem Inventory"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/homework.md",
+      "title": "Week 2 Homework"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/lecture-notes/01-problem-first-idea-generation.md",
+      "title": "Lecture 1 \u2014 Problem-First Idea Generation"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/lecture-notes/02-triage-and-desk-validation.md",
+      "title": "Lecture 2 \u2014 Triage and Desk Validation"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Idea-Triage Log"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-idea-generation-and-problem-validation/resources.md",
+      "title": "Week 2 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/README.md",
+      "title": "Week 3 \u2014 Customer Discovery & Interviews"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/exercises/README.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/exercises/exercise-01-interview-script.md",
+      "title": "Exercise 1 \u2014 Interview Script"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/homework.md",
+      "title": "Week 3 Homework"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/lecture-notes/01-discovery-principles.md",
+      "title": "Lecture 1 \u2014 Discovery Principles"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/lecture-notes/02-recruiting-and-synthesis.md",
+      "title": "Lecture 2 \u2014 Recruiting and Synthesis"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Discovery Dossier"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-customer-discovery-and-interviews/resources.md",
+      "title": "Week 3 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/README.md",
+      "title": "Week 4 \u2014 Co-founders, Roles, Equity & Vesting"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/exercises/README.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/exercises/exercise-01-equity-split-reasoning.md",
+      "title": "Exercise 1 \u2014 Equity-Split Reasoning"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/homework.md",
+      "title": "Week 4 Homework"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/lecture-notes/01-cofounders-roles-and-equity.md",
+      "title": "Lecture 1 \u2014 Co-founders, Roles, and Equity"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/lecture-notes/02-vesting-cliffs-and-departures.md",
+      "title": "Lecture 2 \u2014 Vesting, Cliffs, and Departures"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Co-founder Agreement Draft"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-cofounders-roles-equity-and-vesting/resources.md",
+      "title": "Week 4 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/README.md",
+      "title": "Week 5 \u2014 Lean MVP & Build-Measure-Learn"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/exercises/README.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/exercises/exercise-01-riskiest-assumption.md",
+      "title": "Exercise 1 \u2014 Riskiest Assumption"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/homework.md",
+      "title": "Week 5 Homework"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/lecture-notes/01-mvp-as-experiment.md",
+      "title": "Lecture 1 \u2014 MVP as Experiment"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/lecture-notes/02-build-measure-learn.md",
+      "title": "Lecture 2 \u2014 Build-Measure-Learn"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/mini-project/README.md",
+      "title": "Mini-Project \u2014 Build and Run Your MVP"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-lean-mvp-and-build-measure-learn/resources.md",
+      "title": "Week 5 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/README.md",
+      "title": "Week 6 \u2014 Business Models & Unit Economics"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/exercises/README.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/exercises/exercise-01-canvas-and-margins.md",
+      "title": "Exercise 1 \u2014 Canvas and Margins"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/homework.md",
+      "title": "Week 6 Homework"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/lecture-notes/01-business-model-canvas.md",
+      "title": "Lecture 1 \u2014 The Business Model Canvas"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/lecture-notes/02-unit-economics.md",
+      "title": "Lecture 2 \u2014 Unit Economics"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/mini-project/README.md",
+      "title": "Mini-Project \u2014 Lean Canvas + Unit-Economics Sheet"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-business-models-and-unit-economics/resources.md",
+      "title": "Week 6 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/README.md",
+      "title": "Week 7 \u2014 Go-to-Market & Early Traction"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/exercises/README.md",
+      "title": "Week 7 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/exercises/exercise-01-funnel-and-metric.md",
+      "title": "Exercise 1 \u2014 Funnel and Metric"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/homework.md",
+      "title": "Week 7 Homework"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/lecture-notes/01-go-to-market-motions.md",
+      "title": "Lecture 1 \u2014 Go-to-Market Motions"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/lecture-notes/02-traction-and-metrics.md",
+      "title": "Lecture 2 \u2014 Traction and Metrics"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Go-to-Market One-Pager"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-go-to-market-and-early-traction/resources.md",
+      "title": "Week 7 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/README.md",
+      "title": "Week 8 \u2014 Fundraising Basics"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/exercises/README.md",
+      "title": "Week 8 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/exercises/exercise-01-cap-table-basics.md",
+      "title": "Exercise 1 \u2014 Cap-Table Basics"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/homework.md",
+      "title": "Week 8 Homework"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/lecture-notes/01-when-to-raise-and-stages.md",
+      "title": "Lecture 1 \u2014 When (Not) to Raise, and Funding Stages"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/lecture-notes/02-cap-tables-safes-and-dilution.md",
+      "title": "Lecture 2 \u2014 Cap Tables, SAFEs, and Dilution"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/mini-project/README.md",
+      "title": "Mini-Project \u2014 Cap-Table + Dilution Model"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-fundraising-basics/resources.md",
+      "title": "Week 8 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/README.md",
+      "title": "Week 9 \u2014 Legal, Incorporation & Ops"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/exercises/README.md",
+      "title": "Week 9 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/exercises/exercise-01-lawyer-questions.md",
+      "title": "Exercise 1 \u2014 Lawyer & Accountant Questions"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/homework.md",
+      "title": "Week 9 Homework"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/lecture-notes/01-incorporation-and-ip.md",
+      "title": "Lecture 1 \u2014 Incorporation and IP"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/lecture-notes/02-agreements-and-ops.md",
+      "title": "Lecture 2 \u2014 Agreements and Operational Hygiene"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/mini-project/README.md",
+      "title": "Mini-Project \u2014 Incorporation & Ops Checklist"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-legal-incorporation-and-ops/resources.md",
+      "title": "Week 9 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/README.md",
+      "title": "Week 10 \u2014 The Pitch + Demo Day (Capstone)"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/exercises/README.md",
+      "title": "Week 10 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/exercises/exercise-01-pitch-outline.md",
+      "title": "Exercise 1 \u2014 Pitch Outline"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/homework.md",
+      "title": "Week 10 Homework"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/lecture-notes/01-the-three-minute-pitch.md",
+      "title": "Lecture 1 \u2014 The Three-Minute Pitch"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/lecture-notes/02-recording-and-hard-questions.md",
+      "title": "Lecture 2 \u2014 Recording and Hard Questions"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/mini-project/README.md",
+      "title": "Capstone \u2014 Validated Startup Concept"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/quiz.md",
+      "title": "Week 10 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-10-the-pitch-and-demo-day/resources.md",
+      "title": "Week 10 \u2014 Resources"
+    }
+  ]
+}
